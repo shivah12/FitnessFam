@@ -13,5 +13,5 @@
 git clone github_link
 ```
 </ul>
-<p>It supportive of any preferred IDE.</p>
+<p>It is supportive of any preferred IDE.</p>
 <img src="fitness.png" alt="fitnessfamhome">
